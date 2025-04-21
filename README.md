@@ -16,7 +16,9 @@ Python, TensorFlow/Keras, OpenCV, PyTorch
 
 # Input Required for Project
 •	Suspected deep fake videos
+
 •	Dataset of real and fake videos for model training
+
 •	Audio-visual metadata for verification
 
 # Expected Algorithm / Processing
